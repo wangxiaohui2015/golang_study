@@ -1,0 +1,12 @@
+1. Golang web site
+    https://golang.org/
+2. Documentation
+    https://golang.org/doc/
+3. Installation of Golang
+    https://golang.org/doc/install
+4. Getting tour
+    go get golang.org/x/tour/gotour
+5. IDE
+    Visual Studio Code
+        Web: https://code.visualstudio.com/
+        Plugins: Go, Code Runner, Code Spell Checker, Eclipse Keymap, goto-last-edit-location, etc.
